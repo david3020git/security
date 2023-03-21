@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@CrossOrigin("https://react-tailwind-h1w547pww-david3020git.vercel.app")
+@CrossOrigin("https://react-tailwind-liart.vercel.app/")
 //@CrossOrigin(origins = {"https://react-tailwind-liart.vercel.app",})
 @RequestMapping("/api/v1/demo-books")
 @RequiredArgsConstructor
