@@ -18,8 +18,8 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-//@CrossOrigin("http://localhost:3000")
-@CrossOrigin(origins = {"https://react-tailwind-liart.vercel.app","http://localhost:3000"})
+@CrossOrigin("https://react-tailwind-h1w547pww-david3020git.vercel.app")
+//@CrossOrigin(origins = {"https://react-tailwind-liart.vercel.app",})
 @RequestMapping("/api/v1/demo-books")
 @RequiredArgsConstructor
 public class BookController {
